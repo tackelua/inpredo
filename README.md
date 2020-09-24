@@ -40,3 +40,9 @@ There is another part of the project which actually trades in real time using no
 For people who wants to go experimental, don't forget that you can lose money in real markets and I am not accountable for your stupitidy if you choose to use this project to trade with your own money.
 
 Medium article for in depth explanation of the project: https://medium.com/@cderinbogaz/making-a-i-that-looks-into-trade-charts-62e7d51edcba
+
+## Run
+
+PATH="/Users/gith/.pyenv/versions/3.7.5/bin:\$PATH"
+python3 -m venv env
+pip3 install -r requirements.txt
