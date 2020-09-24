@@ -43,6 +43,8 @@ Medium article for in depth explanation of the project: https://medium.com/@cder
 
 ## Run
 
+```
 PATH="/Users/gith/.pyenv/versions/3.7.5/bin:\$PATH"
 python3 -m venv env
 pip3 install -r requirements.txt
+```
